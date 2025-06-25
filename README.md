@@ -15,3 +15,4 @@ List of place
 - Wakayama
 - Mie
 - Tokyo
+- Kagawa
