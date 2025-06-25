@@ -16,3 +16,4 @@
 - KENSHI SUGIYA!!!
 - Kei Nishikori
 - Kawhi Leonard
+- Yasuhito Endo
