@@ -17,3 +17,4 @@
 - Kei Nishikori
 - Kawhi Leonard
 - Yasuhito Endo
+- Takanori Nagase
