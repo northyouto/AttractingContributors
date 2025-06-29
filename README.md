@@ -6,3 +6,4 @@
 - サカナクション
 - super beaver
 - LE SSERAFIM
+- 斉藤 和義
