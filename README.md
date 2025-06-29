@@ -16,3 +16,4 @@ List of place
 - Mie
 - Tokyo
 - Kagawa
+- Nagano
