@@ -18,3 +18,4 @@
 - Kawhi Leonard
 - Yasuhito Endo
 - Roger Federer
+- Shota Morishita
