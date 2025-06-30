@@ -17,4 +17,6 @@
 - Kei Nishikori
 - Kawhi Leonard
 - Yasuhito Endo
+- Roger Federer
+- Shota Morishita
 - Takanori Nagase
