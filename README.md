@@ -14,3 +14,4 @@
 - Tempestissimo - t+pazolite
 - $uicideboy$ - Magazine
 - Without You - Avicii
+- Take On Me - a-ha
